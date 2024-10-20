@@ -36,7 +36,7 @@ This full-stack web application allows users to participate in an online bidding
    - As a user, I want a home page that displays a list of auction items with their current highest bids.
    - As a user, I want an auction item page that shows detailed information and bid history.
    - As a user, I want a profile page where I can manage my information and view my auction activities.
-   
+
 ![login page](images/login.png)
 ![HomePage](images/homepage.png)
 ![User Product](images/userproduct.png)
@@ -120,3 +120,6 @@ Imagine logging into a seamless and intuitive web application where you can easi
 
 ## Contribution
 Contributions are welcome! Please feel free to open issues or submit pull requests to enhance the project...
+
+## License
+Feel free to customize any sections to better fit your project's specifics!
