@@ -17,7 +17,7 @@ This full-stack web application allows users to participate in an online bidding
 
 ## User Stories
 
-1. **User Registration and Authentication**
+1. **User login and Authentication**
    - As a user, I want to register with my username, email, and password so that I can create an account.
    - As a user, I want to log in with my email and password so that I can access my account.
 
@@ -36,6 +36,15 @@ This full-stack web application allows users to participate in an online bidding
    - As a user, I want a home page that displays a list of auction items with their current highest bids.
    - As a user, I want an auction item page that shows detailed information and bid history.
    - As a user, I want a profile page where I can manage my information and view my auction activities.
+   
+![login page](images/login.png)
+![HomePage](images/homepage.png)
+![User Product](images/userproduct.png)
+
+## Overview
+
+This full-stack web application allows users to participate in an online bidding system...
+
 
 ## User Experience
 
@@ -76,9 +85,10 @@ Imagine logging into a seamless and intuitive web application where you can easi
 - Implement API endpoints for user registration, login, auction item management, and bidding functionality.
 
 ### Database
-- Use a relational database (PostgreSQL, MySQL) or a NoSQL database (MongoDB).
+- Use a relational database (MySQL).
 - Design appropriate schemas/models for users, auction items, and bids.
-- Use ORM/ODM for database operations (Sequelize for SQL, Mongoose for MongoDB).
+- Use ORM/ODM for database operations.
+- Aution database contains users, products, userproduct tables.
 
 ### Security
 - Use bcrypt for password hashing.
@@ -108,9 +118,5 @@ Imagine logging into a seamless and intuitive web application where you can easi
     ```bash
     npm start
 
-
-
-
-
-Contribution
+## Contribution
 Contributions are welcome! Please feel free to open issues or submit pull requests to enhance the project...
