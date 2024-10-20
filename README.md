@@ -76,28 +76,24 @@ Imagine logging into a seamless and intuitive web application where you can easi
 ## Technical Considerations
 
 ### Front-End
-- Use a modern front-end framework (React, Angular, or Vue).
+- Use a modern front-end framework (React).
 - Ensure the UI is responsive and user-friendly.
 - Implement form validation for user inputs.
 
 ### Back-End
-- Use Node.js with Express to build the RESTful API.
+- Use bcrypt for password hashing.
+- Use ASP.NET CORE Web API with Express to build the RESTful API.
 - Implement API endpoints for user registration, login, auction item management, and bidding functionality.
+- Ensure secure handling of user authentication with JWT.
 
 ### Database
 - Use a relational database (MySQL).
 - Design appropriate schemas/models for users, auction items, and bids.
-- Use ORM/ODM for database operations.
 - Aution database contains users, products, userproduct tables.
 
 ### Security
 - Use bcrypt for password hashing.
 - Ensure secure handling of user authentication with JWT.
-
-## Documentation
-- Provide API documentation (using Swagger or markdown).
-- Document the database schema and any design decisions.
-- Include this README file with setup instructions.
 
 ## Getting Started
 
