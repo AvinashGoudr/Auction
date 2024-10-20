@@ -1,0 +1,12 @@
+C:\Project\Avinash\Auction\Auction\Auction.Domain\bin\Debug\net8.0\Auction.Domain.deps.json
+C:\Project\Avinash\Auction\Auction\Auction.Domain\bin\Debug\net8.0\Auction.Domain.dll
+C:\Project\Avinash\Auction\Auction\Auction.Domain\bin\Debug\net8.0\Auction.Domain.pdb
+C:\Project\Avinash\Auction\Auction\Auction.Domain\obj\Debug\net8.0\Auction.Domain.csproj.AssemblyReference.cache
+C:\Project\Avinash\Auction\Auction\Auction.Domain\obj\Debug\net8.0\Auction.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Avinash\Auction\Auction\Auction.Domain\obj\Debug\net8.0\Auction.Domain.AssemblyInfoInputs.cache
+C:\Project\Avinash\Auction\Auction\Auction.Domain\obj\Debug\net8.0\Auction.Domain.AssemblyInfo.cs
+C:\Project\Avinash\Auction\Auction\Auction.Domain\obj\Debug\net8.0\Auction.Domain.csproj.CoreCompileInputs.cache
+C:\Project\Avinash\Auction\Auction\Auction.Domain\obj\Debug\net8.0\Auction.Domain.dll
+C:\Project\Avinash\Auction\Auction\Auction.Domain\obj\Debug\net8.0\refint\Auction.Domain.dll
+C:\Project\Avinash\Auction\Auction\Auction.Domain\obj\Debug\net8.0\Auction.Domain.pdb
+C:\Project\Avinash\Auction\Auction\Auction.Domain\obj\Debug\net8.0\ref\Auction.Domain.dll
